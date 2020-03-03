@@ -44,10 +44,10 @@ main {
 @media screen and (max-width:768px) {
   .step-box {
     float: none;
-    width: 100%;
+    width: 90%;
   }
 
   .step-img {
-    width: 100%;
+    width: 90%;
   }
 }
